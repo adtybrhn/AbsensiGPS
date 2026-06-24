@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028490335699",
+    "project_id": "absensigps-db",
+    "storage_bucket": "absensigps-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028490335699:android:def630d55df4dc8fd54b26",
+        "android_client_info": {
+          "package_name": "com.example.absensigps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEbRM5kqAKwzNG436hWmMhiWMLoa8FU1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

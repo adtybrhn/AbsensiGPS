@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_beranda" android:title="Beranda" />
+        <item android:id="@+id/nav_laporan" android:title="Laporan Absensi" />
+        <item android:id="@+id/nav_profil" android:title="Profil Saya" />
+    </group>
+    <item android:title="Lainnya">
+        <menu>
+            <item android:id="@+id/nav_logout" android:title="Keluar (Logout)" />
+        </menu>
+    </item>
+</menu>
